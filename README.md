@@ -34,7 +34,7 @@ I'm a Indian guy who has a curious mind. I'd like to learn something new everyda
      <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
    </a>
    &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <a href="" target="_blank"> 
      <img alt="Javascript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
 </p>
