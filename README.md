@@ -7,7 +7,7 @@
 I'm a Indian guy who has a curious mind. I'd like to learn something new everyday. I'm a **Electronics and communication Engineer** and currently an **App Developer**.
 
 - 🌱 I’m currently learning *Backend Development with NodeJS* (and enjoying _App Dev_).
-- 🔥 Most proud of -- [LazyCrew](http://lazycrew.in/), Being a part of App Developer in**LAZYCREW**.
+- 🔥 Most proud of -- [LazyCrew](http://lazycrew.in/), Being a part of App Developer in **LAZYCREW**.
 - 😍 My hobbies are [YouTube](https://www.youtube.com/channel/UCdDTn7KtmWlJM3BfzpkhfDw), [Animation](https://www.youtube.com/channel/UCdDTn7KtmWlJM3BfzpkhfDw) and [Video Editing](https://www.youtube.com/channel/UCdDTn7KtmWlJM3BfzpkhfDw).
 - 💌 Contact me at [mohammedalithalha2002@gmail.com](mailto:mohammedalithalha2002@gmail.com).
 
